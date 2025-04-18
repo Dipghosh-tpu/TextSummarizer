@@ -1,1 +1,55 @@
 [2025-04-09 12:37:22,307]: INFO: main: Logging is completed.:
+[2025-04-17 13:38:51,068]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-17 13:38:51,070]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-17 13:38:51,071]: INFO: common: created directory at: artifacts:
+[2025-04-17 13:38:51,072]: INFO: common: created directory at: artifacts/data_ingestion:
+[2025-04-17 13:39:21,923]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-17 13:39:21,926]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-17 13:39:21,929]: INFO: common: created directory at: artifacts:
+[2025-04-17 13:39:21,929]: INFO: common: created directory at: artifacts/data_ingestion:
+[2025-04-17 13:41:07,369]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-17 13:41:07,370]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-17 13:41:07,372]: INFO: common: created directory at: artifacts:
+[2025-04-17 13:41:07,373]: INFO: common: created directory at: artifacts/data_ingestion:
+[2025-04-17 13:41:08,950]: INFO: 78092507: File is downloaded:
+[2025-04-17 13:41:09,139]: INFO: 78092507: 7z file extracted to: artifacts/data_ingestion:
+[2025-04-18 13:00:51,982]: INFO: main: stage data Ingestion Stage initiated:
+[2025-04-18 13:00:51,992]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-18 13:00:51,993]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-18 13:00:51,993]: INFO: common: created directory at: artifacts:
+[2025-04-18 13:00:51,994]: INFO: common: created directory at: artifacts/data_ingestion:
+[2025-04-18 13:00:51,994]: ERROR: main: 'DataIngestion' object has no attribute 'downlaod_file':
+[2025-04-18 13:03:07,099]: INFO: main: stage data Ingestion Stage initiated:
+[2025-04-18 13:03:07,101]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-18 13:03:07,101]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-18 13:03:07,102]: INFO: common: created directory at: artifacts:
+[2025-04-18 13:03:07,102]: INFO: common: created directory at: artifacts/data_ingestion:
+[2025-04-18 13:03:08,323]: INFO: data_ingestion: artifacts/data_ingestion/data.7z download! with following info: 
+Connection: close
+Content-Length: 2944100
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/octet-stream
+ETag: "4450eb63089f56212a41409ae9bcb15b3fb051149cf8d4b895f422d5c86b831c"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 274B:2C584:219DD4:44CA3A:68020034
+Accept-Ranges: bytes
+Date: Fri, 18 Apr 2025 07:33:09 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4734-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1744961589.892018,VS0,VE376
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 17adbf144e12058bdb1c77bdfda95c1138baa838
+Expires: Fri, 18 Apr 2025 07:38:09 GMT
+Source-Age: 0
+
+:
+[2025-04-18 13:03:08,523]: INFO: data_ingestion: 7z file extracted to: artifacts/data_ingestion:
+[2025-04-18 13:03:08,523]: INFO: main: stage data Ingestion Stage completed:
