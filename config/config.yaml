@@ -8,8 +8,9 @@ data_ingestion:
   unzip_dir: artifacts/data_ingestion
 
 data_transformation:
-  root_dir: artifacts/data_transformation
-  data_path: artifacts/data_ingestion/samsum_dataset
+  root_dir: artifacts/
+  data_inp_path: artifacts/data_ingestion
+  data_path: artifacts/data_transformation/samsum_dataset
   tokenizer_name: google/pegasus-cnn_dailymail
 
 model_trainer:

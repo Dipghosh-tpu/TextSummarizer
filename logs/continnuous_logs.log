@@ -53,3 +53,92 @@ Source-Age: 0
 :
 [2025-04-18 13:03:08,523]: INFO: data_ingestion: 7z file extracted to: artifacts/data_ingestion:
 [2025-04-18 13:03:08,523]: INFO: main: stage data Ingestion Stage completed:
+[2025-04-21 12:51:11,136]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 12:51:11,140]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 12:51:11,141]: INFO: common: created directory at: artifacts:
+[2025-04-21 12:51:11,141]: INFO: common: created directory at: artifacts/data_transformation:
+[2025-04-21 12:52:37,184]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 12:52:37,185]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 12:52:37,187]: INFO: common: created directory at: artifacts:
+[2025-04-21 12:52:37,189]: INFO: common: created directory at: artifacts/data_transformation:
+[2025-04-21 13:12:39,950]: INFO: config: PyTorch version 2.6.0 available.:
+[2025-04-21 13:12:52,400]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 13:12:52,401]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 13:12:52,403]: INFO: common: created directory at: artifacts:
+[2025-04-21 13:12:52,404]: INFO: common: created directory at: artifacts/data_transformation:
+[2025-04-21 13:14:40,513]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 13:14:40,515]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 13:14:40,516]: INFO: common: created directory at: artifacts:
+[2025-04-21 13:14:40,518]: INFO: common: created directory at: artifacts/data_transformation:
+[2025-04-21 13:20:49,015]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 13:20:49,016]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 13:20:49,018]: INFO: common: created directory at: artifacts:
+[2025-04-21 13:20:49,018]: INFO: common: created directory at: artifacts/:
+[2025-04-21 13:21:20,099]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 13:21:20,100]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 13:21:20,102]: INFO: common: created directory at: artifacts:
+[2025-04-21 13:21:20,103]: INFO: common: created directory at: artifacts/:
+[2025-04-21 13:21:50,069]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 13:21:50,071]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 13:21:50,072]: INFO: common: created directory at: artifacts:
+[2025-04-21 13:21:50,073]: INFO: common: created directory at: artifacts/:
+[2025-04-21 13:23:00,656]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 13:23:00,658]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 13:23:00,659]: INFO: common: created directory at: artifacts:
+[2025-04-21 13:23:00,661]: INFO: common: created directory at: artifacts/:
+[2025-04-21 13:26:51,595]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 13:26:51,597]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 13:26:51,598]: INFO: common: created directory at: artifacts:
+[2025-04-21 13:26:51,600]: INFO: common: created directory at: artifacts/:
+[2025-04-21 13:28:24,934]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 13:28:24,935]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 13:28:24,936]: INFO: common: created directory at: artifacts:
+[2025-04-21 13:28:24,937]: INFO: common: created directory at: artifacts/:
+[2025-04-21 13:41:06,198]: INFO: config: PyTorch version 2.6.0 available.:
+[2025-04-21 13:41:06,949]: INFO: main: stage Data Ingestion Stage initiated:
+[2025-04-21 13:41:06,952]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 13:41:06,953]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 13:41:06,953]: INFO: common: created directory at: artifacts:
+[2025-04-21 13:41:06,954]: INFO: common: created directory at: artifacts/data_ingestion:
+[2025-04-21 13:41:06,954]: ERROR: main: name 'get_size' is not defined:
+[2025-04-21 13:42:37,417]: INFO: config: PyTorch version 2.6.0 available.:
+[2025-04-21 13:42:37,702]: INFO: main: stage Data Ingestion Stage initiated:
+[2025-04-21 13:42:37,704]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 13:42:37,705]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 13:42:37,705]: INFO: common: created directory at: artifacts:
+[2025-04-21 13:42:37,705]: INFO: common: created directory at: artifacts/data_ingestion:
+[2025-04-21 13:42:39,268]: INFO: data_ingestion: artifacts/data_ingestion/data.7z download! with following info: 
+Connection: close
+Content-Length: 2944100
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/octet-stream
+ETag: "4450eb63089f56212a41409ae9bcb15b3fb051149cf8d4b895f422d5c86b831c"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A77E:309B7:17F9F9:3B1737:6805FDF7
+Accept-Ranges: bytes
+Date: Mon, 21 Apr 2025 08:12:39 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4727-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1745223159.124931,VS0,VE681
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 1bdb52f3052ad0cd979ed0e5d86c33bad3c3928b
+Expires: Mon, 21 Apr 2025 08:17:39 GMT
+Source-Age: 0
+
+:
+[2025-04-21 13:42:39,458]: INFO: data_ingestion: 7z file extracted to: artifacts/data_ingestion:
+[2025-04-21 13:42:39,458]: INFO: main: stage Data Ingestion Stage completed:
+[2025-04-21 13:42:39,459]: INFO: main: stage Data Transformation Stage initiated:
+[2025-04-21 13:42:39,460]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 13:42:39,462]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 13:42:39,462]: INFO: common: created directory at: artifacts:
+[2025-04-21 13:42:39,463]: INFO: common: created directory at: artifacts/:
+[2025-04-21 13:42:44,548]: INFO: main: stage Data Transformation Stage completed:
