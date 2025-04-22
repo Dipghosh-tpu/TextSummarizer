@@ -142,3 +142,57 @@ Source-Age: 0
 [2025-04-21 13:42:39,462]: INFO: common: created directory at: artifacts:
 [2025-04-21 13:42:39,463]: INFO: common: created directory at: artifacts/:
 [2025-04-21 13:42:44,548]: INFO: main: stage Data Transformation Stage completed:
+[2025-04-21 15:59:37,940]: INFO: config: PyTorch version 2.6.0 available.:
+[2025-04-21 16:03:10,444]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 16:03:10,446]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 16:03:10,448]: INFO: common: created directory at: artifacts:
+[2025-04-21 16:03:10,449]: INFO: common: created directory at: artifacts/model_trainer:
+[2025-04-21 16:08:08,803]: INFO: config: PyTorch version 2.6.0 available.:
+[2025-04-21 16:08:16,249]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 16:08:16,253]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 16:08:16,254]: INFO: common: created directory at: artifacts:
+[2025-04-21 16:08:16,256]: INFO: common: created directory at: artifacts/model_trainer:
+[2025-04-21 16:10:25,847]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 16:10:25,853]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 16:10:25,855]: INFO: common: created directory at: artifacts:
+[2025-04-21 16:10:25,856]: INFO: common: created directory at: artifacts/model_trainer:
+[2025-04-21 16:12:09,114]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 16:12:09,117]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 16:12:09,119]: INFO: common: created directory at: artifacts:
+[2025-04-21 16:12:09,120]: INFO: common: created directory at: artifacts/model_trainer:
+[2025-04-21 16:12:17,057]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 16:12:17,058]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 16:12:17,060]: INFO: common: created directory at: artifacts:
+[2025-04-21 16:12:17,061]: INFO: common: created directory at: artifacts/model_trainer:
+[2025-04-21 16:16:56,823]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 16:16:56,825]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 16:16:56,826]: INFO: common: created directory at: artifacts:
+[2025-04-21 16:16:56,828]: INFO: common: created directory at: artifacts/model_trainer:
+[2025-04-21 16:17:19,256]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 16:17:19,258]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 16:17:19,259]: INFO: common: created directory at: artifacts:
+[2025-04-21 16:17:19,260]: INFO: common: created directory at: artifacts/model_trainer:
+[2025-04-21 16:17:53,225]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 16:17:53,227]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 16:17:53,228]: INFO: common: created directory at: artifacts:
+[2025-04-21 16:17:53,230]: INFO: common: created directory at: artifacts/model_trainer:
+[2025-04-21 16:19:48,725]: INFO: config: PyTorch version 2.6.0 available.:
+[2025-04-21 16:19:49,524]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 16:19:49,527]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 16:19:49,529]: INFO: common: created directory at: artifacts:
+[2025-04-21 16:19:49,530]: INFO: common: created directory at: artifacts/model_trainer:
+[2025-04-21 16:21:17,245]: INFO: config: PyTorch version 2.6.0 available.:
+[2025-04-21 16:21:19,227]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-21 16:21:19,229]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-21 16:21:19,232]: INFO: common: created directory at: artifacts:
+[2025-04-21 16:21:19,233]: INFO: common: created directory at: artifacts/model_trainer:
+[2025-04-22 12:48:53,924]: INFO: config: PyTorch version 2.6.0 available.:
+[2025-04-22 12:49:14,882]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-22 12:49:14,886]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-22 12:49:14,888]: INFO: common: created directory at: artifacts:
+[2025-04-22 12:49:14,889]: INFO: common: created directory at: artifacts/model_trainer:
+[2025-04-22 12:50:27,856]: INFO: config: PyTorch version 2.6.0 available.:
+[2025-04-22 12:50:41,632]: INFO: common: yaml file: config\config.yaml loaded successfully:
+[2025-04-22 12:50:41,635]: INFO: common: yaml file: params.yaml loaded successfully:
+[2025-04-22 12:50:41,636]: INFO: common: created directory at: artifacts:
+[2025-04-22 12:50:41,637]: INFO: common: created directory at: artifacts/model_trainer:
